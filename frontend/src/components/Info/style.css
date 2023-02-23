@@ -1,0 +1,11 @@
+.goToBuysalary{
+    background-color: silver;
+    color: black;
+    padding: 10px 0px; 
+    margin: 8px 140px;
+    border: none;
+    cursor: pointer;
+   text-align: center;
+    opacity: 0.9;
+    width: 99% !important;
+  }

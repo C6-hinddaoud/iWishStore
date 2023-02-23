@@ -1,0 +1,61 @@
+.mainNav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+.mNav{
+
+width: 14%;
+height: 5%;
+background-color:rgb(127 140 151);
+color: white;
+
+height: 55px;
+    padding-top: 8px
+}
+
+.mNav img{
+    
+    width:20%;
+    height: 100%;
+}
+.logh img{
+    width:88%;
+    height: 100%;
+
+}
+.log{
+    width: 24% !important;
+height: 0;
+background-color:rgb(127 140 151);
+color: white;
+
+height: 55px;
+   
+padding: 0% !important;
+margin-right: 0px !important;
+}
+.logh{
+    
+    padding: 0% !important;
+    margin-right: 0px !important;
+
+}
+
+.cartClass{
+    /* margin:10%;
+    padding: 0% 5%;
+    text-align: center;
+    margin-bottom: 10PX; */
+}
+.cartSpan{
+    align-content: center;
+    justify-content: center;
+    margin-left: 30px;
+}
